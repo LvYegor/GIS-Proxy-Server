@@ -1,0 +1,1 @@
+GIS_DOMAIN = "https://gismap.by"
